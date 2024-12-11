@@ -19,7 +19,7 @@ int main ()
         float cost= (totalKmPerday /avgKmperlitre ) * costPerLitre ;
         float totalCost = cost + parkingFees +tolls ;
 
-        cout<< " your total cost per day is " << totalCost << "taka" ;
+        cout<< " your total cost per day is " << totalCost << " taka" ;
 
 
 
