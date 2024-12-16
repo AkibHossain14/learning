@@ -5,7 +5,7 @@ int main ()
 
     int arr[15][15],a,sum=0;
 
-    cout<< " enter the number of riw and column in the matrix :" ;
+    cout<< " enter the number of row and column in the matrix :" ;
     cin >>a ;
 
     arr[a] [a];
@@ -21,7 +21,7 @@ int main ()
         }
     }
 
-    cout << " your matrix is :" <<endl ;
+    cout <<endl <<endl << " your matrix is :" <<endl ;
 
      for (int i =0 ; i <a ; i++)
     {
