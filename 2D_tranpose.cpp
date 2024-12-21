@@ -36,7 +36,7 @@ int main ()
 
 
 
-    cout<<endl <<  " your transpose matrix is  :";
+    cout<<endl <<  " your transpose matrix is  :" <<endl;
 
 
     for (int i =0 ; i <a ; i++)
