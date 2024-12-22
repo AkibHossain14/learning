@@ -1,0 +1,27 @@
+#include<iostream>
+#include<conio.h>
+#include<string.h>
+using namespace std ;
+int main ()
+{
+   char str1[30];
+
+   cout<< " enter the elements of string :" ;
+   cin.getline(str1,30);
+
+
+
+   cout<< " reverse of the string is :" <<strrev(str1);
+
+
+
+
+
+
+
+
+
+
+    getch ();
+}
+
