@@ -12,7 +12,7 @@ using namespace std;
 
    for(int row=0; row<2; row++){
     for (int column=0; column<3; column++){
-        cout<< numbers[row] [column];
+        cout<< numbers[row] [column] << " ";
 
     }
     cout<<endl;
